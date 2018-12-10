@@ -12,18 +12,18 @@ const Navbar = () => (
         </Link>
       </div>
       <div className="navbar-start">
-        <Link className="navbar-item" to="/about">
-          About
-        </Link>
         <Link className="navbar-item" to="/products">
-          Products
+          Features
         </Link>
-        <Link className="navbar-item" to="/contact">
-          Contact
+        <Link className="navbar-item" to="/pricing">
+          Pricing
         </Link>
-        <Link className="navbar-item" to="/contact/examples">
-          Form Examples
+        <Link className="navbar-item" to="/blog">
+          Blog
         </Link>
+        <a className="navbar-item" href="https://docs.humio.com/">
+          Docs
+        </a>
       </div>
       <div className="navbar-end">
         <a

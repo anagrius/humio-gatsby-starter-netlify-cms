@@ -1,10 +1,11 @@
 ---
 templateKey: blog-post
-title: warning. this is a test. this is only a test.
+title: winter is coming
 date: 2018-12-12T09:16:04.805Z
-description: winter is coming.
+description: warning. this is a test. this is only a test.
 tags:
   - log
+  - winter
   - ''
 ---
 # are you prepared?
